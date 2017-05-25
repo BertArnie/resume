@@ -10,7 +10,7 @@ Dedicate, teachable, and collaborative individual, looking to develop automated 
 
 ## Experience
 
-### [Wells Fargo][1]
+### [Wells Fargo][]
 _Minneapolis, MN, 6/2015 to the present_  
 **Application Systems Engineer**  
 In-depth with OpenStack, Terraform, Python, and Puppet. Develop smoke test harness with terraform and python. Improve speed of infrastructure and application provision by 3 orders of magnitude. Bring visibility to hard-to-see issues impacting our private cloud by the use of metrics using Grafana and ELK. Provide systems troubleshooting of Puppet and Openstack provisioning of Linux and Windows. Solve by automation, existing manual processes.  
@@ -24,7 +24,7 @@ In-depth with OpenStack, Terraform, Python, and Puppet. Develop smoke test harne
 * Automate existing manual processes.
 * Commit code to git and to Enterprise Github.
 
-### [Infor][2]
+### [Infor][]
 _Saint Paul, MN, 12/2013 to 6/2015_    
 **System Administrator**  
 Increased consistency, and shortened time to provision infrastructure by automation and process improvement. Reduced provisioning process to a few steps in VMware and AWS, using Powershell and PowerCLI and AWS tools. Solved difficult inventory problem using Powershell and Excel to ensure security compliance of inventory of hosts.  
@@ -36,7 +36,7 @@ Increased consistency, and shortened time to provision infrastructure by automat
 * Manage physical IBM servers in data center.
 * Automated configuration of Windows.
 
-### [3M][3]
+### [3M][]
 _Maplewood, MN, 8/2012 to 11/2013_    
 **Windows System Administrator**  
 Supported automation to deploy a twelve server application stack. Administered physical and virtual infrastructure in support of SDLC, including hypervisor configuration and instance provisioning. 
@@ -45,14 +45,14 @@ Supported automation to deploy a twelve server application stack. Administered p
 * Troubleshooting complex application support issues.
 * Performed detailed configurations of server and desktop hardware to meet specification.
 
-### [EPM][4]
+### [EPM][]
 _Hudson, WI, 8/2011 to 8/2012_   
 **Staff Engineer (System Administrator)**  
 Solved a variety of IT application needs for a team of Nuclear Safety Engineers. Managed IT to best align with business needs. Administered network, firewall, server, workstation, and provided technical support to users. Designed and implemented IT at new branch office. Made purchasing recommendations IT equipment.  
 
 * Responsible for solving all problems for server, network, and workstation needs for nuclear engineering safety firm.
 
-### [OSI][5]
+### [OSI][]
 _Plymouth, MN, 12/2007 to 8/2011_    
 **Network Engineer**  
 Was responsible for the design, installation, and configuration of computer systems for corporate and government customers running electrical power SCADA systems. System components include a broad range of technologies.  
@@ -70,8 +70,8 @@ University of Minnesota College of Science and Engineering, Graduated 2006
 * Podcasts, Meetups
 
 
-[Wells Fargo][1]: http://wellsfargo.com
-[3M][2]: http://3m.com/us
-[Infor][3]: http://infor.com
-[EPM][4]: http://www.epm-inc.com/
-[OSI][5]: http://osii.com
+[Wells Fargo]: http://wellsfargo.com
+[3M]: http://3m.com/us
+[Infor]: http://infor.com
+[EPM]: http://www.epm-inc.com/
+[OSI]: http://osii.com
