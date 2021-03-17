@@ -6,6 +6,8 @@ robertarnold@outlook.com
 
 ## Profile
 
+Technologist, senior engineer; knowledgable in IT, infrastructure, and systems engineering.
+
 Dedicate, teachable, and collaborative individual, looking to develop automated solutions to problems, and improve people's lives.
 
 ## Experience
