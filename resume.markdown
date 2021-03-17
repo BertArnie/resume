@@ -1,7 +1,7 @@
 # Robert Douglas Arnold
 
-1201 West Minnehaha Avenue, Saint Paul, MN 55104
-robertarnold@outlook.com
+1201 West Minnehaha Avenue, Saint Paul, MN 55104  
+robertarnold@outlook.com  
 (612) 859-8404
 
 ## Profile
