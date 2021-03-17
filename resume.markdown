@@ -1,6 +1,6 @@
 # Robert Arnold
 
-1201 Minnehaha Ave West, Saint Paul, MN 55104  
+1201 West Minnehaha Avenue, Saint Paul, MN 55104
 robertarnold@outlook.com
 (612) 859-8404
 
