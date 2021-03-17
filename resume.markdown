@@ -10,6 +10,20 @@ Dedicate, teachable, and collaborative individual, looking to develop automated 
 
 ## Experience
 
+### [SPS Commerce][]
+_Minneapolis, MN, 8/2017 to the present_
+**System Engineer**
+Develop infrastructure as code in AWS to increase reliability and reduce cost.
+Measure and monitor services in order to observe system health of critical services, and maximize the reliability of important infrastructure.
+
+* Interconnect DNS for VPCs to on-premise systems with Route 53 Resolver, Microsoft Windows DNS, and BIND.
+* Develop machine image pipeline to create ec2 ami artifacts.
+* Configuration management with Ansible within the Linux operating system.
+* Develop infrastructure as code with terraform.
+* Develop terraform standard practices and pipeline process.
+* Respond to critical issues with production services.
+* Work with a variety of AWS services.
+
 ### [Wells Fargo][]
 _Minneapolis, MN, 6/2015 to the present_  
 **Application Systems Engineer**  
@@ -70,6 +84,7 @@ University of Minnesota College of Science and Engineering, Graduated 2006
 * Podcasts, Meetups
 
 
+[SPS Commerce]: https://www.spscommerce.com
 [Wells Fargo]: http://wellsfargo.com
 [3M]: http://3m.com/us
 [Infor]: http://infor.com
